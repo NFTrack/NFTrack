@@ -32,3 +32,4 @@ includeRootOperations: true
  includeTypes: true
   - name: MiniChef
    handler:
+    graphql:
