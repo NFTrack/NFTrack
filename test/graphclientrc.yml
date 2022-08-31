@@ -11,3 +11,4 @@ sources:
 - autoPagination:
 validateSchema: true
  - name: Exchange
+    handler:
