@@ -1,3 +1,4 @@
 sources:
   - name: Trident
   handler:
+ graphql:
