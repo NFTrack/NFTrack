@@ -14,3 +14,4 @@ validateSchema: true
     handler:
   graphql:
  endpoint: https://{context.host:api.thegraph.com/subgraphs/name}
+ transforms:
