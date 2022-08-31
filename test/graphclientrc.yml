@@ -28,3 +28,4 @@ validateSchema: true
   transforms:
   - prefix:
 value: MasterChef_
+includeRootOperations: true
