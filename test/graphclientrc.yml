@@ -31,3 +31,4 @@ value: MasterChef_
 includeRootOperations: true
  includeTypes: true
   - name: MiniChef
+   handler:
