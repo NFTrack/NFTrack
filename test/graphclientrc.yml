@@ -18,3 +18,4 @@ validateSchema: true
   - prefix:
   value: Exchange_
    includeRootOperations: true
+ includeTypes: true
