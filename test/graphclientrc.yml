@@ -37,3 +37,4 @@ includeRootOperations: true
   transforms:
   - prefix:
   value: MiniChef_
+ includeRootOperations: true
