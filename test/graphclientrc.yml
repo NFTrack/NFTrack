@@ -12,3 +12,4 @@ sources:
 validateSchema: true
  - name: Exchange
     handler:
+  graphql:
