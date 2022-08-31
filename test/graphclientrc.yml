@@ -33,3 +33,4 @@ includeRootOperations: true
   - name: MiniChef
    handler:
     graphql:
+ endpoint: https://{context.host:api.thegraph.com/subgraphs/name}/{context.name:jiro-ono/miniche
