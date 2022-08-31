@@ -9,3 +9,4 @@ sources:
      includeRootOperations: true
    includeTypes: true
 - autoPagination:
+validateSchema: true
