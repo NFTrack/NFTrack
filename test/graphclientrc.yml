@@ -20,3 +20,4 @@ validateSchema: true
    includeRootOperations: true
  includeTypes: true
  - autoPagination:
+  validateSchema: true
