@@ -6,3 +6,4 @@ sources:
  transforms:
  - prefix:
    value: Trident_
+     includeRootOperations: true
