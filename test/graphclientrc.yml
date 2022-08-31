@@ -22,3 +22,4 @@ validateSchema: true
  - autoPagination:
   validateSchema: true
  - name: MasterChef
+  handler:
