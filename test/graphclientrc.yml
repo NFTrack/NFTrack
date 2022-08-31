@@ -19,3 +19,4 @@ validateSchema: true
   value: Exchange_
    includeRootOperations: true
  includeTypes: true
+ - autoPagination:
