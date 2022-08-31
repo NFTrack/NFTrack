@@ -10,3 +10,4 @@ sources:
    includeTypes: true
 - autoPagination:
 validateSchema: true
+ - name: Exchange
