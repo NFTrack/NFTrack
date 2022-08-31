@@ -16,3 +16,4 @@ validateSchema: true
  endpoint: https://{context.host:api.thegraph.com/subgraphs/name}
  transforms:
   - prefix:
+  value: Exchange_
