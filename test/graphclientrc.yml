@@ -25,3 +25,4 @@ validateSchema: true
   handler:
   graphql:
  endpoint: https://api.thegraph.com/subgraphs/name/sushiswap/masterchef-v2-ethereum
+  transforms:
