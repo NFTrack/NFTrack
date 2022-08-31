@@ -4,3 +4,4 @@ sources:
  graphql:
  endpoint: https://{context.host:api.thegraph.com/subgraphs/name}/{context.name:sushi-labs/trident-optimism}
  transforms:
+ - prefix:
