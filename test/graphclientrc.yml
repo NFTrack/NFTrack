@@ -7,3 +7,4 @@ sources:
  - prefix:
    value: Trident_
      includeRootOperations: true
+   includeTypes: true
