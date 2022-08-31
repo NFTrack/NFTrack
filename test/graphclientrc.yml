@@ -36,3 +36,4 @@ includeRootOperations: true
  endpoint: https://{context.host:api.thegraph.com/subgraphs/name}/{context.name:jiro-ono/miniche
   transforms:
   - prefix:
+  value: MiniChef_
